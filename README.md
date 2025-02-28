@@ -1,0 +1,2 @@
+# test_stripe_payment
+使用FastAPI进行对接Stripe支付平台的测试
